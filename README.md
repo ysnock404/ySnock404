@@ -1,24 +1,33 @@
-👋 Hey, Este é o meu perfil! :computer:
- ------------
-<img align='right' src='https://www.tilaplaya.com/includes/404.png' width='200"'>
+# Hey! 👋 I'm Santiago
 
- # 👨‍💻 OS e Linguagens: <div align="center">  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://wiki.python.org/moin/BeginnersGuide) [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-pt/windows/get-windows-10)
+**@ysnock404** | Developer in progress 🚧
 
-</div>
+---
 
-```js
-const Contact = { 
- 💻Discord: "ysnock",
+## Tech Stack
+
+```javascript
+const santiago = {
+  skills: {
+    HTML: "90%",      // Pretty solid
+    JavaScript: "80%", // Comfortable
+    CSS: "60%",       // Still mastering flexbox/grid
+    Python: "80%",    // Scripts and automation
+    C++: "30%",       // Basic foundations
+    React: "15%"      // Just getting started
+  },
+  currentlyLearning: ["React", "Node.js", "REST APIs"],
+  nextGoal: "Master React and build solid projects"
 }
-📚 Computer Systems Management and Programming student
 ```
- ------------
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ySnock404&show_icons=true" alt="ySnock" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ySnock404&layout=compact)" />
- <br>
-</p>
 
+## What I'm up to
 
-⭐️ Im [ySnock](https://github.com/ySnock404)
+- 🔥 Learning React (components, hooks, state management)
+- 🛠️ Building small projects to practice
+- 📚 Studying development best practices
+- 🎯 Planning my next personal project
 
+---
+
+*"Working code > Perfect code"* ✨
